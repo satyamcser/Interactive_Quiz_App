@@ -96,7 +96,7 @@ An Interactive Quiz App with enhanced features including dynamic feedback, color
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/interactive-quiz-app.git
+    git clone https://github.com/satyamcser/Interactive_Quiz_App.git
     ```
 
 2. **Navigate to the project directory:**
